@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiBook",
+      "TiSchool",
+      "SiNaver",
+      "LiDog",
+      "FasElevator"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Linux": "FabLinux",
+  "Flutter": "SiFlutter",
+  "Rust": "FabRust",
+  "Projects": "FasBolt",
+  "tags": "FasTags",
+  "Projects/Cookie": "LiCookie",
+  "Projects/WePlan": "CoEditPencilLine02",
+  "Projects/Elevator Controller.md": "FasElevator",
+  "Projects/Cosmos (ongoing)": "TiFlower",
+  "Projects/OS Assignments": "RiComputerLine",
+  "삽질": "🚧",
+  "Projects/Doge_Driver.md": "LiDog",
+  "_Diary": "FasPencil",
+  "_Naver": "SiNaver",
+  "_SSLAB": "TiSchool",
+  "_TIL": "TiBook"
+}

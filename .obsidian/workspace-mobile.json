@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "f4a3cd9ba3d99075",
+    "type": "split",
+    "children": [
+      {
+        "id": "02e19f3422b3ce1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce0ab2c18f9a348a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Naver/Naver Recruit Final.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "831d7b61345b8d53",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ea2ae2e3ccce2ba4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e5a8ed2ebad79f8b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d15d48402de9c929",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f1076df638d6040b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "558863c9cfb8a299",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e4d35283c26e059c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_Naver/Naver Recruit Final.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5c33029815cead1a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_Naver/Naver Recruit Final.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6fea65b57c228b1d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_Naver/Naver Recruit Final.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "ea2ae2e3ccce2ba4",
+  "lastOpenFiles": [
+    "_Naver/Naver 분석.md",
+    "_Diary/index.md",
+    "_SSLAB/IPMI.md",
+    "_Diary/2024-02.md",
+    "index.md",
+    "_Naver/Naver Recruit Final.md",
+    "_Diary/2024-01.md",
+    "_Diary/2023-12.md",
+    "_Naver/NAVER Recruit.md",
+    "Projects/Cookie/0314_아이디어발표.md",
+    "private/SSLAB/Untitled.md",
+    "private/SSLAB/IPMI.md",
+    "Diary/2023-12.md"
+  ]
+}

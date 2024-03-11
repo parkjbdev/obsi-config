@@ -1,0 +1,11 @@
+{
+  "better-comment-toggle:toggle": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "/"
+    }
+  ],
+  "editor:toggle-comments": []
+}
